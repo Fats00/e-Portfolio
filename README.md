@@ -34,9 +34,9 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
   - [Personality Assessment Repository](https://github.com/Fats00/Personality-Assessment)
  <br></br>
 
- <h2>👨‍💻Create CV:</h2>
+ <h2>👨‍💻Professional Networking:</h2>
  
-  - [Create CV Repository](https://github.com/Fats00/Create-CV)
+  - [Professional Networking Repository]([https://github.com/Fats00/Create-CV](https://github.com/Fats00/Professional-Networking/edit/main/README.md))
     <br></br>
  
 <h2>👨‍💻CV Submission:</h2>
