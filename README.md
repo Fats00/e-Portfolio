@@ -3,7 +3,7 @@
 <br></br>
 
 <h2>Description</h2>
-Welcome to my digital portfolio, created as part of my Project Presentation 3 module. 
+Welcome to my e-portfolio. 
 This portfolio highlights my journey of professional and personal development through the 
 Work Readiness Training Programme. It showcases my understanding and application of essential 
 career skills, including Business Communication, Interview Skills, Mock Interviews, Professional 
