@@ -19,9 +19,9 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
 
 
 
-<h2>👨‍💻Career Counselling:</h2>
+<h2>👨‍💻Business Communication:</h2>
 
-  - [Career Counselling Repository](https://github.com/Fats00/Career-Counselling)
+  - [Business Communication Repository](https://github.com/Fats00/Business-Communication/edit/main/README.md)
  <br></br>
  
 <h2>👨‍💻Interview Skills:</h2>
