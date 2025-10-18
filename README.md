@@ -36,7 +36,7 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
 
  <h2>👨‍💻Professional Networking:</h2>
  
-  - [Professional Networking Repository]([https://github.com/Fats00/Create-CV](https://github.com/Fats00/Professional-Networking/edit/main/README.md))
+  - [Professional Networking Repository](https://github.com/Fats00/Professional-Networking/edit/main/README.md)
     <br></br>
  
 <h2>👨‍💻CV Submission:</h2>
