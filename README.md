@@ -29,9 +29,9 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
   - [Skills and Interests Repository](https://github.com/Fats00/Skills-and-Interests)
     <br></br>
  
-<h2>👨‍💻Personality Assessment:</h2>
+<h2>👨‍💻Mock Interview:</h2>
 
-  - [Personality Assessment Repository](https://github.com/Fats00/Personality-Assessment)
+  - [Mock Interview Repository](https://github.com/Fats00/MockInterview/edit/main/README.mdt)
  <br></br>
 
  <h2>👨‍💻Professional Networking:</h2>
