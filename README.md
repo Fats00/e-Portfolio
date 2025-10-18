@@ -24,14 +24,14 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
   - [Career Counselling Repository](https://github.com/Fats00/Career-Counselling)
  <br></br>
  
-<h2>👨‍💻Skills and Interests:</h2>
+<h2>👨‍💻Interview Skills:</h2>
 
-  - [Skills and Interests Repository](https://github.com/Fats00/Skills-and-Interests)
+  - [Interview Skills Repository](https://github.com/Fats00/Skills-and-Interests)
     <br></br>
  
 <h2>👨‍💻Mock Interview:</h2>
 
-  - [Mock Interview Repository](https://github.com/Fats00/MockInterview/edit/main/README.mdt)
+  - [Mock Interview Repository](https://github.com/Fats00/Interview-Skills/edit/main/README.md)
  <br></br>
 
  <h2>👨‍💻Professional Networking:</h2>
