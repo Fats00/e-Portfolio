@@ -26,7 +26,7 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
  
 <h2>👨‍💻Interview Skills:</h2>
 
-  - [Interview Skills Repository](https://github.com/Fats00/Skills-and-Interests)
+  - [Interview Skills Repository](https://github.com/Fats00/MockInterview/edit/main/README.md)
     <br></br>
  
 <h2>👨‍💻Mock Interview:</h2>
