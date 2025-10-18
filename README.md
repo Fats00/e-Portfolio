@@ -39,7 +39,7 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
   - [Professional Networking Repository](https://github.com/Fats00/Professional-Networking/edit/main/README.md)
     <br></br>
  
-<h2>👨‍💻CV Submission:</h2>
+<h2>👨‍💻Workplace Etiquette:</h2>
 
-- [CV Submission Repository](https://github.com/Fats00/CV-Submission/blob/main/README.md)
+- [Workplace Etiquette Repository](https://github.com/Fats00/Workplace-Etiquette/edit/main/README.md)
   <br></br>
