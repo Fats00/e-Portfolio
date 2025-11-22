@@ -21,25 +21,25 @@ Enjoy exploring my journey toward becoming a confident, capable, and career-read
 
 <h2>👨‍💻Business Communication:</h2>
 
-  - [Business Communication Repository](https://github.com/Fats00/Business-Communication/edit/main/README.md)
+  - [Business Communication Repository](https://github.com/Fats00/Business-Communication/blob/main/README.md)
  <br></br>
  
 <h2>👨‍💻Interview Skills:</h2>
 
-  - [Interview Skills Repository](https://github.com/Fats00/Interview-Skills/edit/main/README.md)
+  - [Interview Skills Repository](https://github.com/Fats00/Interview-Skills/blob/main/README.md)
     <br></br>
  
 <h2>👨‍💻Mock Interview:</h2>
 
-  - [Mock Interview Repository](https://github.com/Fats00/MockInterview/edit/main/README.md)
+  - [Mock Interview Repository](https://github.com/Fats00/MockInterview/blob/main/README.md)
  <br></br>
 
  <h2>👨‍💻Professional Networking:</h2>
  
-  - [Professional Networking Repository](https://github.com/Fats00/Professional-Networking/edit/main/README.md)
+  - [Professional Networking Repository](https://github.com/Fats00/Professional-Networking/blob/main/README.md)
     <br></br>
  
 <h2>👨‍💻Workplace Etiquette:</h2>
 
-- [Workplace Etiquette Repository](https://github.com/Fats00/Workplace-Etiquette/edit/main/README.md)
+- [Workplace Etiquette Repository](https://github.com/Fats00/Workplace-Etiquette/blob/main/README.md)
   <br></br>
